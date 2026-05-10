@@ -1,0 +1,1721 @@
+customer_id,company_name,plan_tier,segment,region,channel,acquisition_date,month,mrr,expansion_mrr,is_active
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,02/01/2022,3630.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,03/01/2022,3630.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,04/01/2022,3630.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,05/01/2022,3820.0,190.0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,06/01/2022,3820.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,07/01/2022,3820.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,08/01/2022,3820.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,09/01/2022,3820.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,10/01/2022,3820.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,11/01/2022,4020.0,200.0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,12/01/2022,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,01/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,02/01/2023,4020.0,0.0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,03/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,04/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,05/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,06/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,07/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,08/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,09/01/2023,4020.0,0,1
+CUST-0001,Apex Ventures,Growth,Mid-Market,EMEA,Direct Sales,02/24/2022,10/01/2023,4020.0,0,1
+CUST-0002,BlueStar Systems,Growth,Mid-Market,APAC,Outbound,12/29/2021,01/01/2022,2400.0,0,1
+CUST-0002,BlueStar Systems,Growth,Mid-Market,APAC,Outbound,12/29/2021,02/01/2022,2400.0,0,1
+CUST-0002,BlueStar Systems,Growth,Mid-Market,APAC,Outbound,12/29/2021,03/01/2022,2400.0,0,1
+CUST-0002,BlueStar Systems,Growth,Mid-Market,APAC,Outbound,12/29/2021,04/01/2022,2400.0,0,1
+CUST-0002,BlueStar Systems,Growth,Mid-Market,APAC,Outbound,12/29/2021,05/01/2022,2400.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,06/01/2022,5810.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,07/01/2022,5810.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,08/01/2022,5810.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,09/01/2022,6060.0,250.0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,10/01/2022,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,11/01/2022,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,12/01/2022,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,01/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,02/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,03/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,04/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,05/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,06/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,07/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,08/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,09/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,10/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,11/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,12/01/2023,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,01/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,02/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,03/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,04/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,05/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,06/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,07/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,08/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,09/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,10/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,11/01/2024,6060.0,0,1
+CUST-0003,Cascade Analytics,Enterprise,Mid-Market,EMEA,Partner,06/16/2022,12/01/2024,6060.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,12/01/2022,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,01/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,02/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,03/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,04/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,05/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,06/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,07/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,08/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,09/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,10/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,11/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,12/01/2023,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,01/01/2024,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,02/01/2024,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,03/01/2024,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,04/01/2024,19050.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,05/01/2024,19600.0,550.0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,06/01/2024,19600.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,07/01/2024,19600.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,08/01/2024,19600.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,09/01/2024,19600.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,10/01/2024,19600.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,11/01/2024,19600.0,0,1
+CUST-0004,Drift Technologies,Enterprise,Mid-Market,APAC,Outbound,12/28/2022,12/01/2024,19600.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,01/01/2022,3160.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,02/01/2022,3160.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,03/01/2022,3160.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,04/01/2022,3160.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,05/01/2022,3160.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,06/01/2022,3160.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,07/01/2022,3160.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,08/01/2022,3210.0,50.0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,09/01/2022,3210.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,10/01/2022,3240.0,30.0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,11/01/2022,3390.0,150.0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,12/01/2022,3390.0,0.0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,01/01/2023,3390.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,02/01/2023,3390.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,03/01/2023,3390.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,04/01/2023,3390.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,05/01/2023,3390.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,06/01/2023,3390.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,07/01/2023,3550.0,160.0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,08/01/2023,3550.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,09/01/2023,3550.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,10/01/2023,3550.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,11/01/2023,3710.0,160.0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,12/01/2023,3710.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,01/01/2024,3710.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,02/01/2024,3710.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,03/01/2024,3710.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,04/01/2024,3710.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,05/01/2024,3710.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,06/01/2024,3710.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,07/01/2024,3930.0,220.0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,08/01/2024,3930.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,09/01/2024,3930.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,10/01/2024,3930.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,11/01/2024,3930.0,0,1
+CUST-0005,Echo Digital,Growth,Mid-Market,EMEA,Inbound,12/24/2021,12/01/2024,3930.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,02/01/2022,2090.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,03/01/2022,2090.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,04/01/2022,2120.0,30.0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,05/01/2022,2120.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,06/01/2022,2120.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,07/01/2022,2220.0,100.0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,08/01/2022,2220.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,09/01/2022,2240.0,20.0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,10/01/2022,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,11/01/2022,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,12/01/2022,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,01/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,02/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,03/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,04/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,05/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,06/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,07/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,08/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,09/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,10/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,11/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,12/01/2023,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,01/01/2024,2240.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,02/01/2024,2280.0,40.0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,03/01/2024,2280.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,04/01/2024,2280.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,05/01/2024,2280.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,06/01/2024,2280.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,07/01/2024,2280.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,08/01/2024,2280.0,0.0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,09/01/2024,2360.0,80.0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,10/01/2024,2360.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,11/01/2024,2360.0,0,1
+CUST-0006,Forge Solutions,Growth,Mid-Market,Americas,Partner,02/04/2022,12/01/2024,2360.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,08/01/2022,1670.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,09/01/2022,1670.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,10/01/2022,1700.0,30.0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,11/01/2022,1730.0,30.0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,12/01/2022,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,01/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,02/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,03/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,04/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,05/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,06/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,07/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,08/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,09/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,10/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,11/01/2023,1730.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,12/01/2023,1780.0,50.0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,01/01/2024,1780.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,02/01/2024,1780.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,03/01/2024,1780.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,04/01/2024,1780.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,05/01/2024,1780.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,06/01/2024,1810.0,30.0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,07/01/2024,1810.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,08/01/2024,1810.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,09/01/2024,1810.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,10/01/2024,1810.0,0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,11/01/2024,1900.0,90.0,1
+CUST-0007,GridPoint Inc,Growth,Mid-Market,EMEA,Partner,08/05/2022,12/01/2024,1900.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,01/01/2022,4660.0,260.0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,02/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,03/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,04/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,05/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,06/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,07/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,08/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,09/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,10/01/2022,4660.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,11/01/2022,4930.0,270.0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,12/01/2022,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,01/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,02/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,03/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,04/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,05/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,06/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,07/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,08/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,09/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,10/01/2023,4930.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,11/01/2023,4950.0,20.0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,12/01/2023,4950.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,01/01/2024,4950.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,02/01/2024,4950.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,03/01/2024,4950.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,04/01/2024,4950.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,05/01/2024,4950.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,06/01/2024,4950.0,0,1
+CUST-0008,Helix Data,Growth,Enterprise,Americas,Direct Sales,01/20/2021,07/01/2024,4950.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,09/01/2022,320.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,10/01/2022,320.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,11/01/2022,320.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,12/01/2022,320.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,01/01/2023,320.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,02/01/2023,330.0,10.0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,03/01/2023,330.0,0.0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,04/01/2023,330.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,05/01/2023,330.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,06/01/2023,350.0,20.0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,07/01/2023,350.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,08/01/2023,370.0,20.0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,09/01/2023,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,10/01/2023,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,11/01/2023,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,12/01/2023,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,01/01/2024,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,02/01/2024,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,03/01/2024,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,04/01/2024,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,05/01/2024,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,06/01/2024,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,07/01/2024,370.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,08/01/2024,380.0,10.0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,09/01/2024,380.0,0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,10/01/2024,400.0,20.0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,11/01/2024,410.0,10.0,1
+CUST-0009,Iris Software,Starter,SMB,APAC,Outbound,09/21/2022,12/01/2024,410.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,04/01/2022,10900.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,05/01/2022,11190.0,290.0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,06/01/2022,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,07/01/2022,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,08/01/2022,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,09/01/2022,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,10/01/2022,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,11/01/2022,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,12/01/2022,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,01/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,02/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,03/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,04/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,05/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,06/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,07/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,08/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,09/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,10/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,11/01/2023,11190.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,12/01/2023,11520.0,330.0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,01/01/2024,11520.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,02/01/2024,11520.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,03/01/2024,11520.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,04/01/2024,11520.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,05/01/2024,11760.0,240.0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,06/01/2024,11760.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,07/01/2024,11760.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,08/01/2024,11760.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,09/01/2024,11760.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,10/01/2024,11760.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,11/01/2024,11760.0,0,1
+CUST-0010,Juno Platforms,Enterprise,Enterprise,Americas,Direct Sales,04/21/2022,12/01/2024,11760.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,01/01/2022,500.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,02/01/2022,500.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,03/01/2022,500.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,04/01/2022,500.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,05/01/2022,500.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,06/01/2022,520.0,20.0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,07/01/2022,520.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,08/01/2022,520.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,09/01/2022,530.0,10.0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,10/01/2022,530.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,11/01/2022,530.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,12/01/2022,560.0,30.0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,01/01/2023,560.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,02/01/2023,560.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,03/01/2023,560.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,04/01/2023,560.0,0.0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,05/01/2023,560.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,06/01/2023,580.0,20.0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,07/01/2023,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,08/01/2023,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,09/01/2023,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,10/01/2023,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,11/01/2023,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,12/01/2023,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,01/01/2024,580.0,0.0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,02/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,03/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,04/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,05/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,06/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,07/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,08/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,09/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,10/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,11/01/2024,580.0,0,1
+CUST-0011,Keystone Labs,Starter,SMB,APAC,Direct Sales,09/26/2021,12/01/2024,610.0,30.0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,01/01/2022,3360.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,02/01/2022,3520.0,160.0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,03/01/2022,3520.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,04/01/2022,3520.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,05/01/2022,3520.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,06/01/2022,3520.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,07/01/2022,3710.0,190.0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,08/01/2022,3710.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,09/01/2022,3710.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,10/01/2022,3710.0,0,1
+CUST-0012,Luminary Corp,Growth,SMB,APAC,Outbound,06/23/2021,11/01/2022,3710.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,01/01/2022,4290.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,02/01/2022,4290.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,03/01/2022,4290.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,04/01/2022,4290.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,05/01/2022,4290.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,06/01/2022,4290.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,07/01/2022,4290.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,08/01/2022,4350.0,60.0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,09/01/2022,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,10/01/2022,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,11/01/2022,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,12/01/2022,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,01/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,02/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,03/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,04/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,05/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,06/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,07/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,08/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,09/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,10/01/2023,4350.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,11/01/2023,4520.0,170.0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,12/01/2023,4560.0,40.0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,01/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,02/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,03/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,04/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,05/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,06/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,07/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,08/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,09/01/2024,4560.0,0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,10/01/2024,4710.0,150.0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,11/01/2024,4760.0,50.0,1
+CUST-0013,Mesa Systems,Growth,Mid-Market,Americas,Inbound,04/11/2021,12/01/2024,5040.0,280.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,01/01/2022,1720.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,02/01/2022,1720.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,03/01/2022,1800.0,80.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,04/01/2022,1800.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,05/01/2022,1800.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,06/01/2022,1800.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,07/01/2022,1800.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,08/01/2022,1800.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,09/01/2022,1870.0,70.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,10/01/2022,1870.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,11/01/2022,1870.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,12/01/2022,1870.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,01/01/2023,1870.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,02/01/2023,1870.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,03/01/2023,1870.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,04/01/2023,1890.0,20.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,05/01/2023,1890.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,06/01/2023,1890.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,07/01/2023,1890.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,08/01/2023,1890.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,09/01/2023,1890.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,10/01/2023,1960.0,70.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,11/01/2023,1960.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,12/01/2023,1960.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,01/01/2024,1960.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,02/01/2024,2070.0,110.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,03/01/2024,2070.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,04/01/2024,2160.0,90.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,05/01/2024,2160.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,06/01/2024,2160.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,07/01/2024,2230.0,70.0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,08/01/2024,2230.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,09/01/2024,2230.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,10/01/2024,2230.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,11/01/2024,2230.0,0,1
+CUST-0014,Nova Analytics,Growth,SMB,EMEA,Direct Sales,12/25/2021,12/01/2024,2230.0,0,1
+CUST-0015,Orbit Technologies,Starter,SMB,APAC,Outbound,09/09/2022,09/01/2022,420.0,0,1
+CUST-0015,Orbit Technologies,Starter,SMB,APAC,Outbound,09/09/2022,10/01/2022,420.0,0,1
+CUST-0015,Orbit Technologies,Starter,SMB,APAC,Outbound,09/09/2022,11/01/2022,420.0,0,1
+CUST-0015,Orbit Technologies,Starter,SMB,APAC,Outbound,09/09/2022,12/01/2022,420.0,0,1
+CUST-0015,Orbit Technologies,Starter,SMB,APAC,Outbound,09/09/2022,01/01/2023,420.0,0,1
+CUST-0015,Orbit Technologies,Starter,SMB,APAC,Outbound,09/09/2022,02/01/2023,420.0,0,1
+CUST-0015,Orbit Technologies,Starter,SMB,APAC,Outbound,09/09/2022,03/01/2023,420.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,01/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,02/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,03/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,04/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,05/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,06/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,07/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,08/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,09/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,10/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,11/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,12/01/2022,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,01/01/2023,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,02/01/2023,1980.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,03/01/2023,2070.0,90.0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,04/01/2023,2070.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,05/01/2023,2070.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,06/01/2023,2070.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,07/01/2023,2070.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,08/01/2023,2070.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,09/01/2023,2070.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,10/01/2023,2150.0,80.0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,11/01/2023,2150.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,12/01/2023,2150.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,01/01/2024,2150.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,02/01/2024,2150.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,03/01/2024,2150.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,04/01/2024,2230.0,80.0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,05/01/2024,2230.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,06/01/2024,2360.0,130.0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,07/01/2024,2430.0,70.0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,08/01/2024,2430.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,09/01/2024,2430.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,10/01/2024,2430.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,11/01/2024,2430.0,0,1
+CUST-0016,Prism Software,Growth,Mid-Market,EMEA,Direct Sales,03/14/2021,12/01/2024,2430.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,06/01/2022,320.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,07/01/2022,320.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,08/01/2022,330.0,10.0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,09/01/2022,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,10/01/2022,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,11/01/2022,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,12/01/2022,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,01/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,02/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,03/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,04/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,05/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,06/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,07/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,08/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,09/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,10/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,11/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,12/01/2023,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,01/01/2024,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,02/01/2024,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,03/01/2024,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,04/01/2024,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,05/01/2024,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,06/01/2024,330.0,0,1
+CUST-0017,Quantum Digital,Starter,SMB,APAC,Partner,06/24/2022,07/01/2024,330.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,06/01/2022,840.0,40.0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,07/01/2022,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,08/01/2022,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,09/01/2022,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,10/01/2022,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,11/01/2022,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,12/01/2022,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,01/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,02/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,03/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,04/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,05/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,06/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,07/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,08/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,09/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,10/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,11/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,12/01/2023,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,01/01/2024,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,02/01/2024,840.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,03/01/2024,870.0,30.0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,04/01/2024,870.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,05/01/2024,870.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,06/01/2024,870.0,0,1
+CUST-0018,Ridge Solutions,Starter,SMB,EMEA,Direct Sales,06/12/2022,07/01/2024,870.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,10/01/2022,1160.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,11/01/2022,1160.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,12/01/2022,1160.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,01/01/2023,1160.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,02/01/2023,1160.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,03/01/2023,1160.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,04/01/2023,1200.0,40.0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,05/01/2023,1240.0,40.0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,06/01/2023,1300.0,60.0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,07/01/2023,1300.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,08/01/2023,1300.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,09/01/2023,1300.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,10/01/2023,1300.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,11/01/2023,1300.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,12/01/2023,1300.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,01/01/2024,1300.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,02/01/2024,1320.0,20.0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,03/01/2024,1320.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,04/01/2024,1320.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,05/01/2024,1320.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,06/01/2024,1320.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,07/01/2024,1320.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,08/01/2024,1320.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,09/01/2024,1360.0,40.0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,10/01/2024,1360.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,11/01/2024,1360.0,0,1
+CUST-0019,Slate Technologies,Growth,SMB,Americas,Outbound,10/11/2022,12/01/2024,1360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,06/01/2022,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,07/01/2022,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,08/01/2022,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,09/01/2022,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,10/01/2022,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,11/01/2022,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,12/01/2022,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,01/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,02/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,03/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,04/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,05/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,06/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,07/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,08/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,09/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,10/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,11/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,12/01/2023,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,01/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,02/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,03/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,04/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,05/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,06/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,07/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,08/01/2024,360.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,09/01/2024,370.0,10.0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,10/01/2024,370.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,11/01/2024,370.0,0,1
+CUST-0020,Titan Corp,Starter,SMB,Americas,Inbound,06/01/2022,12/01/2024,370.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,01/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,02/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,03/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,04/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,05/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,06/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,07/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,08/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,09/01/2022,6690.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,10/01/2022,6710.0,20.0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,11/01/2022,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,12/01/2022,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,01/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,02/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,03/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,04/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,05/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,06/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,07/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,08/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,09/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,10/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,11/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,12/01/2023,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,01/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,02/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,03/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,04/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,05/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,06/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,07/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,08/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,09/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,10/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,11/01/2024,6710.0,0,1
+CUST-0021,Union Analytics,Enterprise,Mid-Market,Americas,Direct Sales,03/30/2021,12/01/2024,6710.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,09/01/2022,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,10/01/2022,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,11/01/2022,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,12/01/2022,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,01/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,02/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,03/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,04/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,05/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,06/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,07/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,08/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,09/01/2023,1290.0,0,1
+CUST-0022,Vertex Systems,Growth,SMB,APAC,Inbound,09/02/2022,10/01/2023,1290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,01/01/2022,270.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,02/01/2022,270.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,03/01/2022,270.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,04/01/2022,290.0,20.0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,05/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,06/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,07/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,08/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,09/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,10/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,11/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,12/01/2022,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,01/01/2023,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,02/01/2023,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,03/01/2023,290.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,04/01/2023,310.0,20.0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,05/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,06/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,07/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,08/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,09/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,10/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,11/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,12/01/2023,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,01/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,02/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,03/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,04/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,05/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,06/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,07/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,08/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,09/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,10/01/2024,310.0,0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,11/01/2024,330.0,20.0,1
+CUST-0023,Wave Digital,Starter,SMB,Americas,Inbound,10/15/2021,12/01/2024,330.0,0.0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,08/01/2022,390.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,09/01/2022,390.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,10/01/2022,390.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,11/01/2022,390.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,12/01/2022,390.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,01/01/2023,410.0,20.0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,02/01/2023,410.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,03/01/2023,410.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,04/01/2023,410.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,05/01/2023,410.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,06/01/2023,410.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,07/01/2023,410.0,0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,08/01/2023,410.0,0.0,1
+CUST-0024,Xenon Labs,Starter,SMB,APAC,Direct Sales,08/17/2022,09/01/2023,410.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,08/01/2022,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,09/01/2022,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,10/01/2022,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,11/01/2022,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,12/01/2022,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,01/01/2023,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,02/01/2023,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,03/01/2023,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,04/01/2023,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,05/01/2023,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,06/01/2023,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,07/01/2023,19670.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,08/01/2023,20270.0,600.0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,09/01/2023,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,10/01/2023,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,11/01/2023,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,12/01/2023,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,01/01/2024,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,02/01/2024,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,03/01/2024,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,04/01/2024,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,05/01/2024,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,06/01/2024,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,07/01/2024,20270.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,08/01/2024,20720.0,450.0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,09/01/2024,20720.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,10/01/2024,20720.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,11/01/2024,20720.0,0,1
+CUST-0026,Zenith Analytics,Enterprise,Enterprise,Americas,Outbound,08/24/2022,12/01/2024,20720.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,01/01/2022,9950.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,02/01/2022,10110.0,160.0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,03/01/2022,10110.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,04/01/2022,10110.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,05/01/2022,10110.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,06/01/2022,10200.0,90.0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,07/01/2022,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,08/01/2022,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,09/01/2022,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,10/01/2022,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,11/01/2022,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,12/01/2022,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,01/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,02/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,03/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,04/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,05/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,06/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,07/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,08/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,09/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,10/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,11/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,12/01/2023,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,01/01/2024,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,02/01/2024,10200.0,0,1
+CUST-0027,Arc Systems,Enterprise,Enterprise,Americas,Direct Sales,06/14/2021,03/01/2024,10200.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,01/01/2022,470.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,02/01/2022,470.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,03/01/2022,470.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,04/01/2022,470.0,0.0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,05/01/2022,490.0,20.0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,06/01/2022,490.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,07/01/2022,490.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,08/01/2022,490.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,09/01/2022,490.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,10/01/2022,500.0,10.0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,11/01/2022,500.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,12/01/2022,510.0,10.0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,01/01/2023,510.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,02/01/2023,510.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,03/01/2023,510.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,04/01/2023,510.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,05/01/2023,510.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,06/01/2023,510.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,07/01/2023,520.0,10.0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,08/01/2023,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,09/01/2023,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,10/01/2023,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,11/01/2023,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,12/01/2023,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,01/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,02/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,03/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,04/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,05/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,06/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,07/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,08/01/2024,520.0,0,1
+CUST-0028,Bridge Corp,Starter,SMB,EMEA,Inbound,05/03/2021,09/01/2024,520.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,11/01/2022,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,12/01/2022,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,01/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,02/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,03/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,04/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,05/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,06/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,07/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,08/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,09/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,10/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,11/01/2023,880.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,12/01/2023,910.0,30.0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,01/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,02/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,03/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,04/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,05/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,06/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,07/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,08/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,09/01/2024,910.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,10/01/2024,960.0,50.0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,11/01/2024,960.0,0,1
+CUST-0029,Cedar Analytics,Starter,SMB,APAC,Outbound,11/06/2022,12/01/2024,960.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,03/01/2022,470.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,04/01/2022,470.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,05/01/2022,470.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,06/01/2022,470.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,07/01/2022,470.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,08/01/2022,470.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,09/01/2022,490.0,20.0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,10/01/2022,490.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,11/01/2022,510.0,20.0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,12/01/2022,510.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,01/01/2023,530.0,20.0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,02/01/2023,530.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,03/01/2023,530.0,0,1
+CUST-0030,Delta Software,Starter,SMB,EMEA,Inbound,03/18/2022,04/01/2023,530.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,01/01/2022,3080.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,02/01/2022,3080.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,03/01/2022,3080.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,04/01/2022,3210.0,130.0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,05/01/2022,3210.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,06/01/2022,3210.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,07/01/2022,3210.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,08/01/2022,3210.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,09/01/2022,3220.0,10.0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,10/01/2022,3220.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,11/01/2022,3220.0,0,1
+CUST-0031,Eagle Platforms,Growth,Mid-Market,EMEA,Direct Sales,08/19/2021,12/01/2022,3390.0,170.0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,01/01/2022,1530.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,02/01/2022,1530.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,03/01/2022,1570.0,40.0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,04/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,05/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,06/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,07/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,08/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,09/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,10/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,11/01/2022,1570.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,12/01/2022,1600.0,30.0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,01/01/2023,1600.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,02/01/2023,1600.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,03/01/2023,1600.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,04/01/2023,1600.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,05/01/2023,1600.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,06/01/2023,1600.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,07/01/2023,1600.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,08/01/2023,1680.0,80.0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,09/01/2023,1680.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,10/01/2023,1680.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,11/01/2023,1680.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,12/01/2023,1680.0,0,1
+CUST-0032,Falcon Digital,Growth,SMB,EMEA,Inbound,05/17/2021,01/01/2024,1680.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,01/01/2022,10850.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,02/01/2022,10850.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,03/01/2022,10900.0,50.0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,04/01/2022,10900.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,05/01/2022,10900.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,06/01/2022,11540.0,640.0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,07/01/2022,11540.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,08/01/2022,11660.0,120.0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,09/01/2022,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,10/01/2022,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,11/01/2022,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,12/01/2022,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,01/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,02/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,03/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,04/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,05/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,06/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,07/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,08/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,09/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,10/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,11/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,12/01/2023,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,01/01/2024,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,02/01/2024,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,03/01/2024,11660.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,04/01/2024,12100.0,440.0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,05/01/2024,12560.0,460.0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,06/01/2024,12560.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,07/01/2024,12560.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,08/01/2024,12560.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,09/01/2024,12560.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,10/01/2024,12560.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,11/01/2024,12560.0,0,1
+CUST-0033,Granite Solutions,Enterprise,Enterprise,EMEA,Outbound,06/15/2021,12/01/2024,12560.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,01/01/2022,1030.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,02/01/2022,1030.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,03/01/2022,1030.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,04/01/2022,1030.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,05/01/2022,1080.0,50.0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,06/01/2022,1140.0,60.0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,07/01/2022,1170.0,30.0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,08/01/2022,1170.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,09/01/2022,1170.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,10/01/2022,1170.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,11/01/2022,1190.0,20.0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,12/01/2022,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,01/01/2023,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,02/01/2023,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,03/01/2023,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,04/01/2023,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,05/01/2023,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,06/01/2023,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,07/01/2023,1190.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,08/01/2023,1220.0,30.0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,09/01/2023,1220.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,10/01/2023,1220.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,11/01/2023,1270.0,50.0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,12/01/2023,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,01/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,02/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,03/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,04/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,05/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,06/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,07/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,08/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,09/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,10/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,11/01/2024,1270.0,0,1
+CUST-0034,Harbor Labs,Growth,Mid-Market,EMEA,Partner,06/13/2021,12/01/2024,1320.0,50.0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,06/01/2022,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,07/01/2022,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,08/01/2022,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,09/01/2022,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,10/01/2022,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,11/01/2022,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,12/01/2022,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,01/01/2023,710.0,0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,02/01/2023,740.0,30.0,1
+CUST-0035,Ionic Systems,Starter,SMB,APAC,Direct Sales,06/02/2022,03/01/2023,740.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,01/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,02/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,03/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,04/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,05/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,06/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,07/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,08/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,09/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,10/01/2022,330.0,0,1
+CUST-0036,Jasper Corp,Starter,SMB,Americas,Partner,08/25/2021,11/01/2022,330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,03/01/2022,1270.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,04/01/2022,1270.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,05/01/2022,1270.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,06/01/2022,1270.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,07/01/2022,1270.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,08/01/2022,1330.0,60.0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,09/01/2022,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,10/01/2022,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,11/01/2022,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,12/01/2022,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,01/01/2023,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,02/01/2023,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,03/01/2023,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,04/01/2023,1330.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,05/01/2023,1380.0,50.0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,06/01/2023,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,07/01/2023,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,08/01/2023,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,09/01/2023,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,10/01/2023,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,11/01/2023,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,12/01/2023,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,01/01/2024,1380.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,02/01/2024,1430.0,50.0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,03/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,04/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,05/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,06/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,07/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,08/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,09/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,10/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,11/01/2024,1430.0,0,1
+CUST-0037,Kinetic Analytics,Growth,Mid-Market,Americas,Inbound,03/18/2022,12/01/2024,1430.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,01/01/2022,4280.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,02/01/2022,4280.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,03/01/2022,4280.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,04/01/2022,4280.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,05/01/2022,4280.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,06/01/2022,4280.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,07/01/2022,4280.0,0,1
+CUST-0038,Lotus Systems,Growth,Mid-Market,EMEA,Direct Sales,08/25/2021,08/01/2022,4280.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,04/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,05/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,06/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,07/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,08/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,09/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,10/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,11/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,12/01/2022,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,01/01/2023,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,02/01/2023,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,03/01/2023,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,04/01/2023,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,05/01/2023,2960.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,06/01/2023,3100.0,140.0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,07/01/2023,3100.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,08/01/2023,3100.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,09/01/2023,3100.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,10/01/2023,3100.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,11/01/2023,3140.0,40.0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,12/01/2023,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,01/01/2024,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,02/01/2024,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,03/01/2024,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,04/01/2024,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,05/01/2024,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,06/01/2024,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,07/01/2024,3140.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,08/01/2024,3160.0,20.0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,09/01/2024,3160.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,10/01/2024,3160.0,0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,11/01/2024,3260.0,100.0,1
+CUST-0039,Marble Digital,Growth,Mid-Market,APAC,Outbound,04/02/2022,12/01/2024,3260.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,01/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,02/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,03/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,04/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,05/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,06/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,07/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,08/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,09/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,10/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,11/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,12/01/2022,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,01/01/2023,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,02/01/2023,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,03/01/2023,630.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,04/01/2023,650.0,20.0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,05/01/2023,650.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,06/01/2023,650.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,07/01/2023,670.0,20.0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,08/01/2023,670.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,09/01/2023,670.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,10/01/2023,670.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,11/01/2023,670.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,12/01/2023,670.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,01/01/2024,670.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,02/01/2024,670.0,0,1
+CUST-0040,Nexus Platforms,Starter,SMB,Americas,Partner,10/11/2021,03/01/2024,670.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,01/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,02/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,03/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,04/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,05/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,06/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,07/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,08/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,09/01/2022,580.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,10/01/2022,590.0,10.0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,11/01/2022,590.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,12/01/2022,590.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,01/01/2023,590.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,02/01/2023,620.0,30.0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,03/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,04/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,05/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,06/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,07/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,08/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,09/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,10/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,11/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,12/01/2023,620.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,01/01/2024,640.0,20.0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,02/01/2024,640.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,03/01/2024,640.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,04/01/2024,640.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,05/01/2024,640.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,06/01/2024,640.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,07/01/2024,640.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,08/01/2024,680.0,40.0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,09/01/2024,680.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,10/01/2024,680.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,11/01/2024,680.0,0,1
+CUST-0041,Oak Analytics,Starter,SMB,EMEA,Partner,11/22/2021,12/01/2024,680.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,03/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,04/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,05/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,06/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,07/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,08/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,09/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,10/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,11/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,12/01/2022,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,01/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,02/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,03/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,04/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,05/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,06/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,07/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,08/01/2023,3740.0,0,1
+CUST-0042,Peak Software,Growth,SMB,EMEA,Direct Sales,03/08/2022,09/01/2023,3740.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,04/01/2022,3220.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,05/01/2022,3220.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,06/01/2022,3220.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,07/01/2022,3310.0,90.0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,08/01/2022,3310.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,09/01/2022,3310.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,10/01/2022,3310.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,11/01/2022,3310.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,12/01/2022,3310.0,0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,01/01/2023,3490.0,180.0,1
+CUST-0043,Quest Labs,Growth,Mid-Market,APAC,Direct Sales,04/25/2022,02/01/2023,3490.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,01/01/2022,520.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,02/01/2022,540.0,20.0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,03/01/2022,540.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,04/01/2022,540.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,05/01/2022,540.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,06/01/2022,540.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,07/01/2022,540.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,08/01/2022,570.0,30.0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,09/01/2022,590.0,20.0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,10/01/2022,610.0,20.0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,11/01/2022,610.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,12/01/2022,610.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,01/01/2023,610.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,02/01/2023,610.0,0,1
+CUST-0044,Reef Systems,Starter,SMB,APAC,Direct Sales,09/27/2021,03/01/2023,610.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,01/01/2022,580.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,02/01/2022,580.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,03/01/2022,600.0,20.0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,04/01/2022,600.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,05/01/2022,620.0,20.0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,06/01/2022,650.0,30.0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,07/01/2022,650.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,08/01/2022,650.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,09/01/2022,690.0,40.0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,10/01/2022,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,11/01/2022,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,12/01/2022,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,01/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,02/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,03/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,04/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,05/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,06/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,07/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,08/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,09/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,10/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,11/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,12/01/2023,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,01/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,02/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,03/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,04/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,05/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,06/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,07/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,08/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,09/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,10/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,11/01/2024,690.0,0,1
+CUST-0045,Stone Analytics,Starter,SMB,APAC,Direct Sales,04/06/2021,12/01/2024,690.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,01/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,02/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,03/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,04/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,05/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,06/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,07/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,08/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,09/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,10/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,11/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,12/01/2022,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,01/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,02/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,03/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,04/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,05/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,06/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,07/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,08/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,09/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,10/01/2023,4340.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,11/01/2023,4590.0,250.0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,12/01/2023,4630.0,40.0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,01/01/2024,4630.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,02/01/2024,4630.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,03/01/2024,4630.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,04/01/2024,4630.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,05/01/2024,4630.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,06/01/2024,4720.0,90.0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,07/01/2024,4720.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,08/01/2024,4720.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,09/01/2024,4720.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,10/01/2024,4720.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,11/01/2024,4720.0,0,1
+CUST-0046,Tidal Digital,Growth,Mid-Market,Americas,Outbound,10/16/2021,12/01/2024,4720.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,01/01/2022,14960.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,02/01/2022,14960.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,03/01/2022,15760.0,800.0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,04/01/2022,16230.0,470.0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,05/01/2022,16230.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,06/01/2022,16230.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,07/01/2022,17010.0,780.0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,08/01/2022,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,09/01/2022,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,10/01/2022,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,11/01/2022,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,12/01/2022,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,01/01/2023,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,02/01/2023,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,03/01/2023,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,04/01/2023,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,05/01/2023,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,06/01/2023,17010.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,07/01/2023,17430.0,420.0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,08/01/2023,17430.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,09/01/2023,17600.0,170.0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,10/01/2023,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,11/01/2023,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,12/01/2023,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,01/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,02/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,03/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,04/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,05/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,06/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,07/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,08/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,09/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,10/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,11/01/2024,17600.0,0,1
+CUST-0047,Uplift Corp,Enterprise,Enterprise,EMEA,Partner,02/01/2021,12/01/2024,17600.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,01/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,02/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,03/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,04/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,05/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,06/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,07/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,08/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,09/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,10/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,11/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,12/01/2022,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,01/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,02/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,03/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,04/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,05/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,06/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,07/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,08/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,09/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,10/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,11/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,12/01/2023,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,01/01/2024,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,02/01/2024,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,03/01/2024,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,04/01/2024,530.0,0,1
+CUST-0048,Valor Systems,Starter,SMB,APAC,Direct Sales,04/14/2021,05/01/2024,530.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,01/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,02/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,03/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,04/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,05/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,06/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,07/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,08/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,09/01/2022,18610.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,10/01/2022,18690.0,80.0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,11/01/2022,18690.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,12/01/2022,18690.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,01/01/2023,19350.0,660.0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,02/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,03/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,04/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,05/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,06/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,07/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,08/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,09/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,10/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,11/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,12/01/2023,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,01/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,02/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,03/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,04/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,05/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,06/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,07/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,08/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,09/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,10/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,11/01/2024,19350.0,0,1
+CUST-0049,Westgate Labs,Enterprise,SMB,Americas,Partner,02/03/2021,12/01/2024,19350.0,0,1
+CUST-0050,Pinnacle Systems,Growth,Mid-Market,APAC,Direct Sales,03/21/2022,03/01/2022,1500.0,0,1
+CUST-0050,Pinnacle Systems,Growth,Mid-Market,APAC,Direct Sales,03/21/2022,04/01/2022,1500.0,0,1
+CUST-0050,Pinnacle Systems,Growth,Mid-Market,APAC,Direct Sales,03/21/2022,05/01/2022,1500.0,0,1
+CUST-0050,Pinnacle Systems,Growth,Mid-Market,APAC,Direct Sales,03/21/2022,06/01/2022,1520.0,20.0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,01/01/2022,6450.0,200.0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,02/01/2022,6710.0,260.0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,03/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,04/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,05/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,06/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,07/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,08/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,09/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,10/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,11/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,12/01/2022,6710.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,01/01/2023,6880.0,170.0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,02/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,03/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,04/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,05/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,06/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,07/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,08/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,09/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,10/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,11/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,12/01/2023,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,01/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,02/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,03/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,04/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,05/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,06/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,07/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,08/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,09/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,10/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,11/01/2024,6880.0,0,1
+CUST-0051,Meridian Analytics,Enterprise,Mid-Market,Americas,Outbound,05/08/2021,12/01/2024,7090.0,210.0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,01/01/2022,3620.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,02/01/2022,3620.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,03/01/2022,3620.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,04/01/2022,3620.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,05/01/2022,3620.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,06/01/2022,3620.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,07/01/2022,3700.0,80.0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,08/01/2022,3700.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,09/01/2022,3700.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,10/01/2022,3700.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,11/01/2022,3700.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,12/01/2022,3700.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,01/01/2023,3700.0,0,1
+CUST-0052,Cobalt Digital,Growth,SMB,APAC,Inbound,08/17/2021,02/01/2023,3700.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,12/01/2022,320.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,01/01/2023,330.0,10.0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,02/01/2023,330.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,03/01/2023,330.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,04/01/2023,330.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,05/01/2023,330.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,06/01/2023,330.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,07/01/2023,340.0,10.0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,08/01/2023,340.0,0.0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,09/01/2023,340.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,10/01/2023,340.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,11/01/2023,340.0,0.0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,12/01/2023,340.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,01/01/2024,340.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,02/01/2024,340.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,03/01/2024,340.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,04/01/2024,350.0,10.0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,05/01/2024,350.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,06/01/2024,350.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,07/01/2024,350.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,08/01/2024,350.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,09/01/2024,360.0,10.0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,10/01/2024,360.0,0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,11/01/2024,370.0,10.0,1
+CUST-0053,Ellipsis Corp,Starter,SMB,Americas,Outbound,12/05/2022,12/01/2024,370.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,07/01/2022,790.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,08/01/2022,830.0,40.0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,09/01/2022,830.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,10/01/2022,830.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,11/01/2022,830.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,12/01/2022,830.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,01/01/2023,830.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,02/01/2023,850.0,20.0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,03/01/2023,850.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,04/01/2023,850.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,05/01/2023,890.0,40.0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,06/01/2023,890.0,0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,07/01/2023,890.0,0.0,1
+CUST-0054,Momentum Labs,Starter,SMB,APAC,Partner,07/15/2022,08/01/2023,890.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,12/01/2022,12000.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,01/01/2023,12000.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,02/01/2023,12000.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,03/01/2023,12000.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,04/01/2023,12000.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,05/01/2023,12690.0,690.0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,06/01/2023,12690.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,07/01/2023,12690.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,08/01/2023,12690.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,09/01/2023,12690.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,10/01/2023,13290.0,600.0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,11/01/2023,13550.0,260.0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,12/01/2023,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,01/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,02/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,03/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,04/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,05/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,06/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,07/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,08/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,09/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,10/01/2024,13550.0,0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,11/01/2024,13710.0,160.0,1
+CUST-0056,Ironclad Analytics,Enterprise,Mid-Market,Americas,Direct Sales,12/21/2022,12/01/2024,14440.0,730.0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,01/01/2022,1050.0,60.0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,02/01/2022,1050.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,03/01/2022,1070.0,20.0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,04/01/2022,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,05/01/2022,1070.0,0.0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,06/01/2022,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,07/01/2022,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,08/01/2022,1070.0,0.0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,09/01/2022,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,10/01/2022,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,11/01/2022,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,12/01/2022,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,01/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,02/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,03/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,04/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,05/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,06/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,07/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,08/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,09/01/2023,1070.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,10/01/2023,1120.0,50.0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,11/01/2023,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,12/01/2023,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,01/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,02/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,03/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,04/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,05/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,06/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,07/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,08/01/2024,1120.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,09/01/2024,1140.0,20.0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,10/01/2024,1140.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,11/01/2024,1140.0,0,1
+CUST-0057,Cobblestone Tech,Growth,Mid-Market,Americas,Direct Sales,09/16/2021,12/01/2024,1140.0,0,1
+CUST-0058,Clearview Digital,Starter,Mid-Market,EMEA,Outbound,02/04/2021,01/01/2022,560.0,0,1
+CUST-0058,Clearview Digital,Starter,Mid-Market,EMEA,Outbound,02/04/2021,02/01/2022,590.0,30.0,1
+CUST-0058,Clearview Digital,Starter,Mid-Market,EMEA,Outbound,02/04/2021,03/01/2022,590.0,0,1
+CUST-0058,Clearview Digital,Starter,Mid-Market,EMEA,Outbound,02/04/2021,04/01/2022,590.0,0,1
+CUST-0058,Clearview Digital,Starter,Mid-Market,EMEA,Outbound,02/04/2021,05/01/2022,590.0,0,1
+CUST-0058,Clearview Digital,Starter,Mid-Market,EMEA,Outbound,02/04/2021,06/01/2022,590.0,0,1
+CUST-0058,Clearview Digital,Starter,Mid-Market,EMEA,Outbound,02/04/2021,07/01/2022,590.0,0,1
+CUST-0059,Polar Analytics,Starter,SMB,EMEA,Partner,05/09/2022,05/01/2022,830.0,0,1
+CUST-0059,Polar Analytics,Starter,SMB,EMEA,Partner,05/09/2022,06/01/2022,830.0,0,1
+CUST-0059,Polar Analytics,Starter,SMB,EMEA,Partner,05/09/2022,07/01/2022,830.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,11/01/2022,20470.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,12/01/2022,20470.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,01/01/2023,20470.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,02/01/2023,20470.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,03/01/2023,20980.0,510.0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,04/01/2023,20980.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,05/01/2023,20980.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,06/01/2023,21370.0,390.0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,07/01/2023,21370.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,08/01/2023,21370.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,09/01/2023,21370.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,10/01/2023,21370.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,11/01/2023,21830.0,460.0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,12/01/2023,21830.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,01/01/2024,21830.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,02/01/2024,22170.0,340.0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,03/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,04/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,05/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,06/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,07/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,08/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,09/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,10/01/2024,22170.0,0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,11/01/2024,23390.0,1220.0,1
+CUST-0060,Redwood Corp,Enterprise,Mid-Market,APAC,Inbound,11/29/2022,12/01/2024,23390.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,05/01/2022,600.0,30.0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,06/01/2022,600.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,07/01/2022,600.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,08/01/2022,600.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,09/01/2022,600.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,10/01/2022,610.0,10.0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,11/01/2022,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,12/01/2022,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,01/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,02/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,03/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,04/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,05/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,06/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,07/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,08/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,09/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,10/01/2023,610.0,0,1
+CUST-0061,Everest Systems,Starter,SMB,EMEA,Partner,05/31/2022,11/01/2023,610.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,01/01/2022,1560.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,02/01/2022,1580.0,20.0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,03/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,04/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,05/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,06/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,07/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,08/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,09/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,10/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,11/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,12/01/2022,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,01/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,02/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,03/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,04/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,05/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,06/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,07/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,08/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,09/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,10/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,11/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,12/01/2023,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,01/01/2024,1580.0,0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,02/01/2024,1590.0,10.0,1
+CUST-0062,Sunridge Labs,Growth,Enterprise,APAC,Partner,07/21/2021,03/01/2024,1590.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,03/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,04/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,05/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,06/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,07/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,08/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,09/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,10/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,11/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,12/01/2022,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,01/01/2023,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,02/01/2023,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,03/01/2023,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,04/01/2023,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,05/01/2023,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,06/01/2023,1080.0,0,1
+CUST-0063,Fathom Analytics,Growth,Mid-Market,Americas,Inbound,03/10/2022,07/01/2023,1080.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,11/01/2022,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,12/01/2022,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,01/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,02/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,03/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,04/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,05/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,06/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,07/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,08/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,09/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,10/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,11/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,12/01/2023,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,01/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,02/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,03/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,04/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,05/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,06/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,07/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,08/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,09/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,10/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,11/01/2024,2630.0,0,1
+CUST-0064,Coastal Digital,Growth,Mid-Market,APAC,Inbound,11/19/2022,12/01/2024,2630.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,11/01/2022,15660.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,12/01/2022,15660.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,01/01/2023,15660.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,02/01/2023,15920.0,260.0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,03/01/2023,16630.0,710.0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,04/01/2023,17450.0,820.0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,05/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,06/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,07/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,08/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,09/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,10/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,11/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,12/01/2023,17450.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,01/01/2024,17830.0,380.0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,02/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,03/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,04/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,05/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,06/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,07/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,08/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,09/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,10/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,11/01/2024,17830.0,0,1
+CUST-0065,Summit Corp,Enterprise,Enterprise,APAC,Direct Sales,11/18/2022,12/01/2024,17830.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,01/01/2022,630.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,02/01/2022,630.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,03/01/2022,630.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,04/01/2022,640.0,10.0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,05/01/2022,640.0,0.0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,06/01/2022,640.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,07/01/2022,640.0,0.0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,08/01/2022,640.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,09/01/2022,640.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,10/01/2022,670.0,30.0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,11/01/2022,670.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,12/01/2022,690.0,20.0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,01/01/2023,690.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,02/01/2023,690.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,03/01/2023,690.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,04/01/2023,690.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,05/01/2023,690.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,06/01/2023,710.0,20.0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,07/01/2023,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,08/01/2023,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,09/01/2023,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,10/01/2023,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,11/01/2023,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,12/01/2023,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,01/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,02/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,03/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,04/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,05/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,06/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,07/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,08/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,09/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,10/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,11/01/2024,710.0,0,1
+CUST-0066,Highpoint Labs,Starter,SMB,EMEA,Outbound,10/28/2021,12/01/2024,710.0,0,1
+CUST-0067,Groundswell Analytics,Growth,Mid-Market,APAC,Outbound,12/31/2022,12/01/2022,1790.0,0,1
+CUST-0067,Groundswell Analytics,Growth,Mid-Market,APAC,Outbound,12/31/2022,01/01/2023,1790.0,0,1
+CUST-0067,Groundswell Analytics,Growth,Mid-Market,APAC,Outbound,12/31/2022,02/01/2023,1790.0,0,1
+CUST-0067,Groundswell Analytics,Growth,Mid-Market,APAC,Outbound,12/31/2022,03/01/2023,1790.0,0,1
+CUST-0067,Groundswell Analytics,Growth,Mid-Market,APAC,Outbound,12/31/2022,04/01/2023,1790.0,0,1
+CUST-0067,Groundswell Analytics,Growth,Mid-Market,APAC,Outbound,12/31/2022,05/01/2023,1790.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,01/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,02/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,03/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,04/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,05/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,06/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,07/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,08/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,09/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,10/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,11/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,12/01/2022,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,01/01/2023,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,02/01/2023,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,03/01/2023,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,04/01/2023,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,05/01/2023,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,06/01/2023,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,07/01/2023,3140.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,08/01/2023,3180.0,40.0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,09/01/2023,3180.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,10/01/2023,3180.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,11/01/2023,3210.0,30.0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,12/01/2023,3210.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,01/01/2024,3210.0,0,1
+CUST-0068,Harbor Digital,Growth,Mid-Market,EMEA,Inbound,05/24/2021,02/01/2024,3210.0,0,1
+CUST-0069,Landmark Systems,Growth,Mid-Market,EMEA,Direct Sales,02/24/2021,01/01/2022,2160.0,0,1
+CUST-0070,Solstice Corp,Growth,Mid-Market,Americas,Direct Sales,10/18/2021,01/01/2022,3800.0,0,1
+CUST-0070,Solstice Corp,Growth,Mid-Market,Americas,Direct Sales,10/18/2021,02/01/2022,3800.0,0,1
+CUST-0070,Solstice Corp,Growth,Mid-Market,Americas,Direct Sales,10/18/2021,03/01/2022,3800.0,0,1
+CUST-0070,Solstice Corp,Growth,Mid-Market,Americas,Direct Sales,10/18/2021,04/01/2022,3800.0,0,1
+CUST-0070,Solstice Corp,Growth,Mid-Market,Americas,Direct Sales,10/18/2021,05/01/2022,3800.0,0,1
+CUST-0071,Tempest Analytics,Enterprise,Mid-Market,Americas,Outbound,10/16/2022,10/01/2022,9110.0,0,1
+CUST-0071,Tempest Analytics,Enterprise,Mid-Market,Americas,Outbound,10/16/2022,11/01/2022,9110.0,0,1
+CUST-0071,Tempest Analytics,Enterprise,Mid-Market,Americas,Outbound,10/16/2022,12/01/2022,9210.0,100.0,1
+CUST-0071,Tempest Analytics,Enterprise,Mid-Market,Americas,Outbound,10/16/2022,01/01/2023,9210.0,0,1
+CUST-0071,Tempest Analytics,Enterprise,Mid-Market,Americas,Outbound,10/16/2022,02/01/2023,9210.0,0,1
+CUST-0072,Ironbridge Labs,Starter,SMB,Americas,Direct Sales,01/08/2022,01/01/2022,270.0,10.0,1
+CUST-0072,Ironbridge Labs,Starter,SMB,Americas,Direct Sales,01/08/2022,02/01/2022,270.0,0,1
+CUST-0072,Ironbridge Labs,Starter,SMB,Americas,Direct Sales,01/08/2022,03/01/2022,270.0,0,1
+CUST-0072,Ironbridge Labs,Starter,SMB,Americas,Direct Sales,01/08/2022,04/01/2022,270.0,0,1
+CUST-0073,Driftwood Digital,Starter,SMB,Americas,Inbound,12/17/2021,01/01/2022,810.0,0,1
+CUST-0073,Driftwood Digital,Starter,SMB,Americas,Inbound,12/17/2021,02/01/2022,810.0,0,1
+CUST-0073,Driftwood Digital,Starter,SMB,Americas,Inbound,12/17/2021,03/01/2022,810.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,10/01/2022,750.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,11/01/2022,750.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,12/01/2022,750.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,01/01/2023,790.0,40.0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,02/01/2023,790.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,03/01/2023,790.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,04/01/2023,790.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,05/01/2023,790.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,06/01/2023,790.0,0,1
+CUST-0074,Northstar Systems,Starter,Mid-Market,APAC,Outbound,10/05/2022,07/01/2023,790.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,05/01/2022,4490.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,06/01/2022,4490.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,07/01/2022,4630.0,140.0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,08/01/2022,4630.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,09/01/2022,4630.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,10/01/2022,4630.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,11/01/2022,4630.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,12/01/2022,4630.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,01/01/2023,4630.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,02/01/2023,4640.0,10.0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,03/01/2023,4640.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,04/01/2023,4920.0,280.0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,05/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,06/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,07/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,08/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,09/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,10/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,11/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,12/01/2023,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,01/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,02/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,03/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,04/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,05/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,06/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,07/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,08/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,09/01/2024,4920.0,0.0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,10/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,11/01/2024,4920.0,0,1
+CUST-0075,Cloudbase Analytics,Growth,SMB,APAC,Outbound,05/23/2022,12/01/2024,5190.0,270.0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,11/01/2022,3200.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,12/01/2022,3360.0,160.0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,01/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,02/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,03/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,04/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,05/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,06/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,07/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,08/01/2023,3360.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,09/01/2023,3420.0,60.0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,10/01/2023,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,11/01/2023,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,12/01/2023,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,01/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,02/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,03/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,04/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,05/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,06/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,07/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,08/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,09/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,10/01/2024,3420.0,0.0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,11/01/2024,3420.0,0,1
+CUST-0076,Seagate Labs,Growth,Mid-Market,Americas,Outbound,11/07/2022,12/01/2024,3420.0,0,1
