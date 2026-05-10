@@ -92,15 +92,13 @@ This structure maps directly to the output of a `fct_subscriptions` or `fct_mrr`
 ## Repo structure
 
 ```
-coravio-revenue-dashboard/
+Coravio-Analytics-Revenue-Intelligence-Dashboard/
 ├── README.md
 ├── .gitignore
-├── data/
-│   ├── saas_revenue_data.csv     ← source dataset (1,720 records)
-│   ├── generate_data.py          ← reproducible generation script
-│   └── schema.md                 ← full data dictionary
-└── assets/
-    └── preview.png               ← dashboard screenshot
+├── saas_revenue_data.csv
+├── generate_data.py
+├── schema.md
+└── preview.png
 ```
 
 ---
@@ -132,8 +130,8 @@ python data/generate_data.py
 
 ---
 
-**Jaya Krishna Medimpudi** · Analytics Engineer · Phoenix, AZ
-[LinkedIn](https://linkedin.com/in/medimpudi) · [Tableau Public](https://public.tableau.com/app/profile/jaya.krishna.medimpudi7688) · [GitHub](https://github.com/medimpudi)
+**Jaya Krishna Medimpudi**
+[LinkedIn](https://linkedin.com/in/medimpudi88) · [Tableau Public](https://public.tableau.com/app/profile/jaya.krishna.medimpudi7688) · [GitHub](https://github.com/SunDevil88)
 
 ---
 *Coravio is a fictional B2B SaaS company created for this portfolio project. All data is synthetically generated.*
